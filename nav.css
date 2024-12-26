@@ -1,0 +1,7 @@
+*{
+    text-decoration: none;
+    text-transform: capitalize;
+} 
+.navbar{
+    background: crimson;
+}
